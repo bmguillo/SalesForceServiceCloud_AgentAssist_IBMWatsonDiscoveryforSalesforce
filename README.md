@@ -32,3 +32,4 @@ https://www.ibm.com/watson/ibm-salesforce/
 https://github.com/watson-developer-cloud/salesforce-sdk
 https://developer.ibm.com/patterns/integrate-watson-ai-into-salesforce-apps/
 Apex(SalesForce Programming Language): https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm
+https://w3.ibm.com/services/lighthouse/asset-sharing-platform/documents/126739

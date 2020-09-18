@@ -15,7 +15,7 @@ In this repo we will illustrate the following usecase:
 
 ### Part 2 - Download & Install IBM Watson Discovery for Salesforce from the Salesforce AppExchange 
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installpage.png)
-![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installprompt.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installprompt1.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/Installconfirm.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installWDSforSF.png)
 

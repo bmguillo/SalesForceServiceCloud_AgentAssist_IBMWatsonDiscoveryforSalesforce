@@ -4,32 +4,25 @@ This repo illustrates how agents can utilize Watson APIs for quicker resolution 
 In this repo we will illustrate the following usecase:
 
 - Live Agent - Agent Assist usecase incorporating Watson Assistant with Watson Discovery
-    
-    
 
 ## Setup
+- Chatter must be installed before you can install IBM Watson Discovery for Salesforce
+(image)
 
-
-### Part 1 - Salesforce Setup & ServiceCloud setup 
+### Part 1 - Salesforce Setup 
 
 - Obtain a Salesforce instance with Administrator access and log in
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/sflogin.png)
 
-
-- Go to service app
-![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/serviceapp.png)
+### Part 2 - Download & Install IBM Watson Discovery for Salesforce from the Salesforce AppExchange
 
 
-### Part 2 - Download and Install SalesForce SDK
-
-
-### Part 3: Agent Assist - Search skill connect WA to WDS
+### Part 3: Add the Custom 
 
 
 
 Resources:
-https://www.ibm.com/watson/ibm-salesforce/
-https://github.com/watson-developer-cloud/salesforce-sdk
-https://developer.ibm.com/patterns/integrate-watson-ai-into-salesforce-apps/
-Apex(SalesForce Programming Language): https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm
-https://w3.ibm.com/services/lighthouse/asset-sharing-platform/documents/126739
+Download/Install Page for IBM WDS for Salesforce:https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EtDziUAF&modal=where_to_install_package
+Blog on IBM WDS for SF: https://www.ibm.com/blogs/watson/2018/09/introducing-watson-discovery-for-salesforce-an-ai-powered-insight-engine-for-crm/
+
+

@@ -9,7 +9,7 @@ In this repo we will illustrate the following usecase:
 - Chatter must be installed before you can install IBM Watson Discovery for Salesforce
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installchatter.png)
 
-### Part 1 - Salesforce Setup 
+### Part 1 - Salesforce Setup & ServiceCloud Setup
 
 - Obtain a Salesforce instance with Administrator access and log in
 
@@ -18,8 +18,11 @@ In this repo we will illustrate the following usecase:
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installprompt.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/Installconfirm.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installWDSforSF.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installprocess.png)
 
 
+### Part 3 - Confirm Package was installed by using QuickFind search
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installedpackage.png)
 
 
 

@@ -43,8 +43,6 @@ Hint! Cannot add custom components to lightning app builder unless a domain is d
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/domain2.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/customcomponent.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/lightningappbuilder.png)
-![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/configure7.png)
-
 
 
 Resources:

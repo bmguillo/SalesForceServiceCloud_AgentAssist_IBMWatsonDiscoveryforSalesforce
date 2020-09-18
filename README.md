@@ -7,7 +7,7 @@ In this repo we will illustrate the following usecase:
 
 ## Setup
 - Chatter must be installed before you can install IBM Watson Discovery for Salesforce
-![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installchatter.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installchatter.png)
 
 ### Part 1 - Salesforce Setup 
 
@@ -17,10 +17,10 @@ In this repo we will illustrate the following usecase:
 ![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installpage.png)
 ![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installchatter.png)
 ![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installprompt.png)
-![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installconfirm.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/Installconfirm.png)
 ![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installWDSforSF.png)
 
-![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/Installconfirm.png)
+
 
 
 

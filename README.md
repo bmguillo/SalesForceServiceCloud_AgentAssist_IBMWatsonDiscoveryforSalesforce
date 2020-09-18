@@ -13,16 +13,19 @@ In this repo we will illustrate the following usecase:
 
 - Obtain a Salesforce instance with Administrator access and log in
 
-### Part 2 - Download & Install IBM Watson Discovery for Salesforce from the Salesforce AppExchange
+### Part 2 - Download & Install IBM Watson Discovery for Salesforce from the Salesforce AppExchange 
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installpage.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installprompt.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/Installconfirm.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installWDSforSF.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installprocess.png)
 
+## Part 2a - Connect to IBM Cloud account & create or connect to an existing Watson Discovery Instance
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installprocess.png)
+
 
 ### Part 3 - Confirm Package was installed by using QuickFind search
-![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installedpackage.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installprocess_connecttowds.png)
 
 
 

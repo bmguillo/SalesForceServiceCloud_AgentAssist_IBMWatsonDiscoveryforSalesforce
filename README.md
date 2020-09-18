@@ -36,12 +36,19 @@ In this repo we will illustrate the following usecase:
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/configure4.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/configure5.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/configure6.png)
+
+### Part 5 - Confirm Configuration is complete & Package was installed by using QuickFind search
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/configure7.png)
-
-
-
-### Part 3 - Confirm Package was installed by using QuickFind search
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installedpackage.png)
+
+### Part 6 - Use Lightning App Builder to add custom Watson Discovery Page to case record page template for agent
+Hint! Cannot add custom components to lightning app builder unless a domain is deployed to users, use QuickFind to go to "my domains"
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/domain.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/domain2.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/customcomponent.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/lightningappbuilder.png)
+
+
 
 
 

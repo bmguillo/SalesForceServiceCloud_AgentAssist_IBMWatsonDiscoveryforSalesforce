@@ -7,14 +7,21 @@ In this repo we will illustrate the following usecase:
 
 ## Setup
 - Chatter must be installed before you can install IBM Watson Discovery for Salesforce
-(image)
+![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/img/installchatter.png)
 
 ### Part 1 - Salesforce Setup 
 
 - Obtain a Salesforce instance with Administrator access and log in
-![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/sflogin.png)
 
 ### Part 2 - Download & Install IBM Watson Discovery for Salesforce from the Salesforce AppExchange
+![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/img/installpage.png)
+![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/img/installchatter.png)
+![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/img/installprompt.png)
+![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/img/installconfirm.png)
+![test](hhttps://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/img/installWDSforSF.png)
+
+
+
 
 
 ### Part 3: Add the Custom 
@@ -22,7 +29,7 @@ In this repo we will illustrate the following usecase:
 
 
 Resources:
-Download/Install Page for IBM WDS for Salesforce:https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EtDziUAF&modal=where_to_install_package
-Blog on IBM WDS for SF: https://www.ibm.com/blogs/watson/2018/09/introducing-watson-discovery-for-salesforce-an-ai-powered-insight-engine-for-crm/
+- Download/Install Page for IBM WDS for Salesforce:https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EtDziUAF&modal=where_to_install_package
+- Blog on IBM WDS for SF: https://www.ibm.com/blogs/watson/2018/09/introducing-watson-discovery-for-salesforce-an-ai-powered-insight-engine-for-crm/
 
 

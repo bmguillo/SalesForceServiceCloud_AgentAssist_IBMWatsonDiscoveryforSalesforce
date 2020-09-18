@@ -41,7 +41,7 @@ In this repo we will illustrate the following usecase:
 Hint! Cannot add custom components to lightning app builder unless a domain is deployed to users, use QuickFind to go to "my domains"
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/domain.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/domain2.png)
-![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/customcomponent.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/customcomponent1.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/lightningappbuilder.png)
 
 

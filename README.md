@@ -6,8 +6,11 @@ In this repo we will illustrate the following usecase:
 - Live Agent - Agent Assist usecase incorporating Watson Assistant with Watson Discovery
 
 ## Setup
-- Chatter must be installed before you can install IBM Watson Discovery for Salesforce
+- Hint! Chatter must be installed before you can install IBM Watson Discovery for Salesforce
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/installchatter.png)
+- Hint! Cannot add custom components to lightning app builder unless a domain is deployed to users, use QuickFind to go to "my domains"
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/domain.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/domain2.png)
 
 ### Part 1 - Salesforce Setup & ServiceCloud Setup
 
@@ -37,12 +40,34 @@ In this repo we will illustrate the following usecase:
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/configure5.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/configure6.png)
 
-### Part 5 - Use Lightning App Builder to add custom Watson Discovery Page to case record page template for agent
-Hint! Cannot add custom components to lightning app builder unless a domain is deployed to users, use QuickFind to go to "my domains"
-![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/domain.png)
-![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/domain2.png)
+### Part 5 - Navigate to case, then edit page & use Lightning App Builder to add custom Watson Discovery component to case record page template for agent
+- Use Left Upper Dots to to search apps and choose ServiceApp
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/1_servicecloud.png)
+- Click on cases, gear and edit page
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/2_cases and edit page.png)
+- Use lightning app builder to add Watson Discovery component to case record template
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/customcomponent1.png)
-![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/lightningappbuilder.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/3_lightningappbuilder_before.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/4_lightningappbuilder_after.png)
+- Save then Activate to deploy to users
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/5_saveandactivatetodeploytousers.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/6_deploytoorg.png)
+- Choose assign to org default(if you wish) or other options
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/7_assigntoorg.png)
+- Choose form factor
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/8_assignformfactor.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/9_save.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 Resources:

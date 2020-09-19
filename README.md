@@ -58,16 +58,10 @@ In this repo we will illustrate the following usecase:
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/8_assignformfactor.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/9_save.png)
 
+### Part 6 - Verify Watson Discovery shows on cases
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/DiscoveryDeployed.png)
 
-
-
-
-
-
-
-
-
-
+]
 
 
 Resources:

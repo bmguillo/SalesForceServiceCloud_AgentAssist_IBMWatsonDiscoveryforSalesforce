@@ -44,7 +44,7 @@ In this repo we will illustrate the following usecase:
 - Use Left Upper Dots to to search apps and choose ServiceApp
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/1_servicecloud.png)
 - Click on cases, gear and edit page
-![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/2_casesandedit page.png)
+![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/2_casesandeditpage.png)
 - Use lightning app builder to add Watson Discovery component to case record template
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/customcomponent1.png)
 ![test](https://github.com/bmguillo/SalesForceServiceCloud_AgentAssist_IBMWatsonDiscoveryforSalesforce/blob/master/img/3_lightningappbuilder_before.png)
